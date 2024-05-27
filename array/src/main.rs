@@ -206,5 +206,5 @@ fn main() {
         }
     }
 
-    assert!(count == 30)
+    assert!(count == 30);
 }
